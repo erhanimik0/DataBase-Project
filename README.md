@@ -82,13 +82,17 @@ The project features a highly normalized database schema designed to minimize re
 
 ## 📸 Screenshots
 
-| Executive Dashboard | Customer Transfer |
+| Executive Dashboard (Yönetici) | Money Transfer (Para Transferi) |
 |:-------------------------:|:-------------------------:|
-| ![Boss Screen](path/to/your/image1.jpg) | ![Transfer](path/to/your/image2.jpg) |
+| ![Boss Screen](ScreenShots/Executive%20Dashboard.jpeg) | ![Transfer](ScreenShots/Para%20G%C3%B6nderme%20Ekran%C4%B1.jpeg) |
 
-| Digital Receipt (Dekont) | Loan Application |
+| Digital Receipt (Dekont) | Loan Application (Kredi Başvuru) |
 |:-------------------------:|:-------------------------:|
-| ![Receipt](path/to/your/image3.jpg) | ![Loan](path/to/your/image4.jpg) |
+| ![Receipt](ScreenShots/Dekont.jpeg) | ![Loan](ScreenShots/Kredi%20Ba%C5%9Fvuru%20ekrna%C4%B1.jpeg) |
+
+| Branch Operations (Şube) | Account Opening (Hesap Açılış) |
+|:-------------------------:|:-------------------------:|
+| ![Branch](ScreenShots/Şube%20Ekranı.jpeg) | ![Account](ScreenShots/Hesap%20Açılış%20Ekranı.jpeg) |
 
 *(Note: Screenshots are placeholders. Please update image paths.)*
 
